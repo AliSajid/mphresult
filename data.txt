@@ -1,0 +1,145 @@
+﻿Sr. #	Roll Number	Name of Candidate	Obtained Marks (out of 100)
+1.	6601	Bushra Liaqat D/O Malik Liaqat Hayat	53
+2.	6602	Hurara Khalid D/O Khalid Nawaz	56
+3.	6603	Shamaila Mahmood D/O Parveze Mahmood	34
+4.	6604	Zahida Yasmeen D/O Bashir Muhammad	58
+5.	6605	Talal Farrukh S/O Farrukh Suleman	63
+6.	6606	Abeer Qazi D/O Tariq Ismail Qazi	57
+7.	6607	Shamaila Hassnain D/O Muhammad Aslam	70
+8.	6608	Sara Abbas D/O Malik Ghulam Abbas	47
+9.	6609	Maham Sanawar D/O Rana Sanawar Ali	55
+10.	6610	Mohammad Sajid Riaz S/O Riaz UD Din	50
+11.	6611	Muhammad Zubair Mumtaz S/O Mian Mumtaz Hussain	49
+12.	6612	Roy Bilal Munir S/O Roy Munir Ahmed	61
+13.	6613	Sajjad Ahmed S/O Mohammad Yaqoob	57
+14.	6614	Mahboob Meer S/O Muhammad Amjad Meer	49
+15.	6615	Hafiz Muhammad Usman S/O Salah Ud Din Panwar	47
+16.	6616	Zile E Maryam D/O Mohammad Sulaiman	58
+17.	6617	Dr. Muhammad Kashif Shahzad Virk S/O Muhammad Irshad Sabir Virk	ABSENT
+18.	6618	Dr. Saba Khalid D/O Khalid Latif Sheikh	45
+19.	6619	Ajvad Wasim Safdar S/O Wasim Safdar	58
+20.	6620	Samreen Riaz D/O Riaz Ahmed	50
+21.	6621	Muhammad Rehan Ali S/O Farzand Ali	ABSENT
+22.	6622	Muhammad Javid Iqbal S/O Muhammad Jalal	ABSENT
+23.	6623	Warda Qamar D/O Qamar Javed	55
+24.	6624	Manthar Ali S/O Manzoor Ali	ABSENT
+25.	6625	Muhammad Shoaib S/O Malik Ghulam Qadir	72
+26.	6626	Bilal Saleem Khan S/O Saleem Akhtar Khan	65
+27.	6627	Hasan Tariq Bhatti S/O Muhammad Tariq Bhatti	64
+28.	6628	Sidra Ramzan D/O Muhammad Ramzan	43
+29.	6629	Sadia Riaz D/O Riaz Hussain Shah	68
+30.	6630	Shahid Nabi S/O Ghulam Nabi	60
+31.	6631	Munazza Zamir D/O Zameer U1 Hassan	51
+32.	6632	Sidra Murtaza D/O Ghulam Murtaza	51
+33.	6633	Hira Ahmed D/O Naseer Ahmed	43
+34.	6634	Ubaid Azher S/O Muhammad Pervaiz Azher	70
+35.	6635	Muhammad Rizwan S/O Muhammad Munir	60
+36.	6636	Shazia Mughal D/O Mirza Muhaammad Essa	40
+37.	6637	Gohar Tariq S/O Muhammad Tariq Pervaiz	40
+38.	6638	Muhammad Din S/O Gul Muhammad	43
+39.	6639	Maria Nasir D/0 Nasir Ali	66
+40.	6640	Sundus Waheed D/O Waheed Ahmad	48
+41.	6641	Ahmed Yar Aziz Tarar S/O Abdul Aziz Tarar	40
+42.	6642	Faiza Anayat D/O Anayat Ali	51
+43.	6643	Rushna Zafar D/O Zafar Ahmad Siraj	65
+44.	6644	Mariyam Khan D/O Muhammad Ashraf Khan	69
+45.	6645	Amina Jamil D/O Hamid Jamil	64
+46.	6646	Wajeeha Farooq D/O Muhammad Farooq	56
+47.	6647	Iqra Ghafoor D/O Ghafoor Ahmad	47
+48.	6648	Fakhar Zaman S/O Sher Zaman	56
+49.	6649	Rafiullah S/O Noor ZA Khan	56
+50.	6650	Asaf Khan S/O Shah Nawaz Khan	49
+51.	6651	Fareeha Faiz D/O Faiz Ahmad	37
+52.	6652	Sarah Hassan Qureshi D/O Mahmood U1 Hassan	65
+53.	6653	Abida Bashir D/O Bashir Ahmad	39
+54.	6654	Tabinda Masood D/O Tariq Masood	63
+55.	6655	Anum Ali Malik D/O Asif Ali Malik	63
+56.	6656	Maria Noor D/O Afzal Ali Khokhar	70
+57.	6657	Rafia Batool D/O Muhammad Farique	42
+58.	6658	Hina Masood D/O Masood Ahmed	59
+59.	6659	Nasreen Akhtar D/O Syed Azhar Hussain Shah	39
+60.	6660	Asma Kanwal D/O Muhammad Younas	63
+61.	6661	Hafiza Sidra Khalid D/O Khalid Mehmood	44
+62.	6662	Ali Sajid Imami S/O Sajid Hussain Imami	79
+63.	6663	Azra Khanum D/O Nazir Ahmed	69
+64.	6664	Kiran Batool D/O Hassan Akhtar	70
+65.	6665	Mamata Bhattarai D/O Gauri Shanker Bhattarai	58
+66.	6666	Muhammad Faheem Nawaz S/O Muhammad Nawaz	ABSENT
+67.	6667	Faadia Andleeb D/O Munawar Hussain	52
+68.	6668	Syeda Riffat Iqbal D/O Muhammad Iqbal Shah	64
+69.	6669	Dr. Nadia D/O M Siddique	56
+70.	6670	Shagufta Kanwal D/O Abdul Sattar	35
+71.	6671	Sadia Sarwar D/O Ghulam Sarwar Chaudhary	54
+72.	6672	Muhammad Shahzad Mahmood S/O Mahmood Javiad	55
+73.	6673	Abida Tahir D/O Muhammad Tahir	60
+74.	6674	Hafiz Muhammad Ahsan Masood S/O Masood Ahmed Chudhry	65
+75.	6675	Hafiz Muhammad Arjad S/O Faiz Bakhsh	43
+76.	6676	Rana Waqas Akhtar S/O Rana Akhtar Hussain	49
+77.	6677	Sehrish Ashraf D/O Muhammad Ashraf	42
+78.	6678	Fakhara Ilyas D/O Muhammad Ilyas	63
+79.	6679	Muhammad Aamir S/O Abdul Malik	47
+80.	6680	Fizzah Ali D/O Raja Muhammad Nasir Ali	43
+81.	6681	Mohsin Liaqat S/O Liaqat Ali	ABSENT
+82.	6682	Muhammad Irshad Bhangoo S/O Lai Khan	46
+83.	6683	Muhammad Ahmad S/O Liaqat Ali	52
+84.	6684	Zartashia Shabbir D/O Shabbir Ahmed	57
+85.	6685	Shumila Batool D/O Naseem Akbar Zaidi	52
+86.	6686	Bushra Sohail D/O Akram Khan Sohail	45
+87.	6687	Shazia Jamil D/O Jamil Ahmed	46
+88.	6688	Muhammad Afzal S/O Muhammad Saleem	ABSENT
+89.	6689	Sumbal Waheed D/O Abdul Waheed	46
+90.	6690	Muhammad Aslam Dar S/O Muhammad Rafi Dar	ABSENT
+91.	6691	Sumera Riaz D/O Riaz Ahmed Khan	57
+92.	6692	Muntaha Shaheen D/O Hafiz Shakeel Ahmad	53
+93.	6693	Tanveer Hussain S/O Tasveer Hussain	65
+94.	6694	Sabahat Humayoun D/O Inam UL Haq	58
+95.	6695	Atta Ullah S/O Allah Ditta	54
+96.	6696	Mudassir Faruq S/O Amir Muhammad	ABSENT
+97.	6697	Areeba Riaz D/O Muhammad Riaz	68
+98.	6698	Muhammad Zeeshan Abbas S/O Muhammad Jafar Sadiq	ABSENT
+99.	6699	Shumaila Kiran D/O Muhammad AShraf	34
+100.	6700	Ahmad Mansoor S/O Sibghat Mansoor	67
+101.	6701	Nadia Rasheed D/O Muhammad Rasheed	56
+102.	6702	Khushbakht Ali S/O Liaquat Ali Chugtai	54
+103.	6703	Zohra Rafique D/O Mohammad Rafique	48
+104.	6704	Naveed Anwar S/O Parvez Anwar	58
+105.	6705	Muhammad Arslan Yaseen S/O Ghulam Yaseen	36
+106.	6706	Rao Muhammad Yasrab S/O Rao Farman Ali	58
+107.	6707	Muhammad Asif Faheem S/O Muhammad Rafique	61
+108.	6708	Abdul Mateen S/O Abdul Jabbar Akhtar	59
+109.	6709	Tayyab Jahangir S/O Jahangir Ishaq Khan Lodhi	52
+110.	6710	Ghulam Moheyy UD Din S/O CH. Muhammad Boota	50
+111.	6711	Muhammad Irfan Faiz S/O Faiz Bakhsh	ABSENT
+112.	6712	Muhammad Ali S/O Salar Zai	56
+113.	6713	Saifullah S/O Amanullah	ABSENT
+114.	6714	Abdul Wahid S/O Abdul Sattar	ABSENT
+115.	6715	Fatima Tuz Zahra D/O Brigd. Israr UL Haq	59
+116.	6716	Tariq Ali S/O Abdul Ghani	57
+117.	6717	Saad Anees S/O Qazi Anees Ahmad	46
+118.	6718	Aneesa Mahreen D/O Fasih UZ Zaman Khan	50
+119.	6719	Rashida Kanwal D/O Muhammad Sharif(Late)	59
+120.	6720	Muhammad Sohail Raza S/O CH. Ghulam Rasool	41
+121.	6721	Sadat Anwar S/O Muhammad Anwar	53
+122.	6722	Qurat UL Ain Hameed D/O Abdul Hameed Khan	ABSENT
+123.	6723	Adeel Johnson S/O Aslam Salvator	49
+124.	6724	Zahabia Khalid D/O Muhammad Khalid	74
+125.	6725	Ammara Fayyaz D/O Muhammad Fayyaz	ABSENT
+126.	6726	Rabnawaz S/O Hashim Ali Khan	42
+127.	6727	Hafsa Jameel D/O Muhammad Jameel Chaudhary	67
+128.	6728	Aqsa Safder D/O Muhammad Safdar Khan	61
+129.	6729	Muhammad Muneeb Arshad S/O Chaudhary Arshad Ali Arshad	51
+130.	6730	Raafia Safdar Blouch D/O Muhammad Safdar Blouch	62
+131.	6731	Tanzeela Noreen Alvi D/O Amanat Ali	56
+132.	6732	Zainab Farrukh Qureshi D/O Farrukh Amin Qureshi	53
+133.	6733	Saroosh Fatima D/O Muhammad Mazhar Ullah	62
+134.	6734	Hammad Raza Mirrani S/O Maqsood Ahmed Khan	ABSENT
+135.	6735	Rana Shakil Ahmad S/O Rana Jamil Ahmad	47
+136.	6736	Muhammad Younas S/O Haji Ghulam Haider	55
+137.	6737	Zakki Waqar S/O Waqar Aslam	65
+138.	6738	Fozia Ghafoor D/O Abdul Ghafoor	52
+139.	6739	Danish Mohsin S/O Gulzar Ahmed	70
+140.	6740	Fawad Afridi S/O M Irshad Afridi	ABSENT
+141.	6741	Ali Masood S/O Masood Ahmad	54
+142.	6742	Imtiaz Ali S/O Nek Muhammad	40
+143.	6743	Naheed Pirzada D/O Pirzada MA Qureshi	71
+144.	6744	Abid Wazir S/O Malik Wazir Muhammad	80
