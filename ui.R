@@ -20,7 +20,17 @@ shinyUI(fluidPage(
     sidebarPanel(
        textInput("name",
                    "Name of Student",
-                   placeholder = "Name of Student")
+                   placeholder = "Name of Student"),
+       radioButtons("attendence",
+                    "Attendance",
+                    choices = c("Present", "Absent", "All"),
+                    selected = "All"),
+       radioButtons("gender",
+                    "Gender",
+                    choices = c("Male", "Female", "All"),
+                    selected = "All"),
+       checkboxInput("ordered",
+                     "Ordered?")
     ),
     
     # Show a plot of the generated distribution

@@ -10,7 +10,15 @@
 library(shiny)
 library(tidyverse)
 library(stringr)
-#library(kableExtra)
+
+# Define a helper function
+capwords <- function(s, strict = FALSE) {
+  cap <- function(s) paste(toupper(substring(s, 1, 1)),
+                           {s <- substring(s, 2); if(strict) tolower(s) else s},
+                           sep = "", collapse = " " )
+  sapply(strsplit(s, split = " "), cap, USE.NAMES = !is.null(names(s)))
+}
+
 
 # Read the data in
 if (file.exists("data.txt")) {
@@ -18,6 +26,7 @@ if (file.exists("data.txt")) {
 } else {
   df <- read_tsv("https://gist.githubusercontent.com/AliSajid/4cbe5a684a5b922224d119bdff1cced3/raw/a0a1697f48335272038c490a5d559493dfd1b07d/data.txt", na = c("ABSENT", ""))
 }
+
 
 # Clean up the data
 clean.df <- df %>%
@@ -38,8 +47,32 @@ clean.df <- df %>%
 shinyServer(function(input, output) {
    
   output$searchTable <- renderTable({
-    clean.df %>%
-      filter(startsWith(Name, input$name))
+    # Filter based on name typed, with the first letter auto-capitalized
+    
+    named <- filter(clean.df, startsWith(Name, capwords(input$name)))
+    
+    #Filter based on attendance
+    if (input$attendence != "All") {
+      attended <- filter(named, Attendance == input$attendence)
+    } else {
+      attended <- named
+    }
+    
+    #Filter based on gender
+    if (input$gender != "All") {
+      gendered <- filter(attended, Gender == input$gender)
+    } else {
+      gendered <- attended
+    }
+
+    # Order based on the user preference
+    if (input$ordered) {
+      ordered <- arrange(gendered, Ranking, `Rank Within Gender`, Name)
+    } else {
+      ordered <- gendered
+    }
+    
+    ordered
   })
   
 })
